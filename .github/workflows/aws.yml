@@ -26,7 +26,6 @@
 
 name: Deploy to Amazon ECS
 
-on:
   push:
     branches: [ "main" ]
  # set this to the path to your Amazon ECS task definition
